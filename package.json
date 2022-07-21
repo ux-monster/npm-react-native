@@ -1,6 +1,6 @@
 {
 	"name": "npm-react-native",
-	"version": "1.0.8",
+	"version": "1.0.9",
 	"description": "Template for custom library in npm",
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
