@@ -7,7 +7,7 @@ type Props = {};
 export default function index({}: Props) {
 	return (
 		<View>
-			<Title value="My Component" />
+			<Title value="My Component refresh" />
 		</View>
 	);
 }

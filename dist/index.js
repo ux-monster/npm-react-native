@@ -5,7 +5,7 @@ var react_native_1 = require("react-native");
 var Title_1 = require("./components/Title");
 function index(_a) {
     return (<react_native_1.View>
-			<Title_1.default value="My Component"/>
+			<Title_1.default value="My Component refresh"/>
 		</react_native_1.View>);
 }
 exports.default = index;

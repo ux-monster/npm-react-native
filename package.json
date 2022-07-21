@@ -6,7 +6,8 @@
 	"types": "dist/index.d.ts",
 	"scripts": {
 		"build": "rm -rf dist && tsc",
-		"build:webpack": ""
+		"build:webpack": "",
+		"refresh": "sh refresh.sh"
 	},
 	"repository": {
 		"type": "git",
