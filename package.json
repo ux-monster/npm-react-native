@@ -6,7 +6,7 @@
 	"types": "dist/index.d.ts",
 	"scripts": {
 		"build": "rm -rf dist && tsc",
-		"build:webpack": "rm -rf dist && webpack"
+		"build:webpack": ""
 	},
 	"repository": {
 		"type": "git",
